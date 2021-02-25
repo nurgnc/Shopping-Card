@@ -1,3 +1,11 @@
+# Introduction to Shopping App
+I showed products, with using fake api in the project. I exhibited the products with the card structure. products can be added to and removed from the basket and the total amount can be calculated.
+
+I used this technologies: ReactJS, TypeScript and Material UI
+
+# Demo
+![](shopping-card.gif)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
