@@ -1,5 +1,5 @@
 # Introduction to Shopping App
-I showed products, with using fake api in the project. I exhibited the products with the card structure. products can be added to and removed from the basket and the total amount can be calculated.
+I showed products, with using fake API in the project. I exhibited the products with the card structure. products can be added to and removed from the basket and the total amount can be calculated.
 
 I used this technologies: ReactJS, TypeScript and Material UI
 
